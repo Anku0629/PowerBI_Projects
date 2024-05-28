@@ -5,7 +5,7 @@ Develop interactive dashboards and reports using Power BI to analyze data, gain 
 
 Key Activities:
 
-Data Collection and Integration:...
+Data Collection and Integration:..
 
 Gather data from multiple sources such as databases, spreadsheets, APIs, and cloud services.
 Integrate and transform data using Power Query Editor to create a unified dataset for analysis.
