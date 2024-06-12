@@ -20,7 +20,7 @@ Data Visualization and Analysis:
 
 Create a variety of visualizations such as charts, graphs, maps, and tables to represent data insights.
 Analyze trends, patterns, and anomalies in the data using Power BI's analytical capabilities.
-Interactive Features:
+Interactive Features:-
 
 Incorporate interactive elements such as drill-down, cross-filtering, and bookmarks to enhance dashboard interactivity.
 Enable users to explore data dynamically and derive actionable insights.
