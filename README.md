@@ -1,5 +1,5 @@
 # PowerBI_Projects
-PowerBI is a business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards..
+PowerBI is a business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
 Objective:-
 Develop interactive dashboards and reports using Power BI to analyze data, gain insights, and support decision-making across various domains.
 Key Activities:
